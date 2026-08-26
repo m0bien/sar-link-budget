@@ -308,8 +308,11 @@ $$P_n = N_0 \cdot B_{\text{rf}} = k_B T_{\text{sys}} F_n B_{\text{rf}}$$
 
 ### Integrated Point Target SNR Formula
 Combining the single-pulse radar equation with range and azimuth processing gains yields the fully compressed SAR point target SNR:
+
 $$\text{SNR}_{\text{pt}} = \frac{P_t G^2 \lambda^2 \sigma_{\text{pt}}}{(4\pi)^3 R^4 k_B T_{\text{sys}} F_n B_{\text{rf}} L_{\text{tot}}} \cdot (\tau_p B_{\text{rf}}) \cdot N_{\text{pulses}}$$
+
 $$\text{SNR}_{\text{pt}} = \frac{P_{\text{avg}} \cdot G^2 \cdot \lambda^3 \cdot \sigma_{\text{pt}}}{2 (4\pi)^3 \cdot R^3 \cdot v_s \cdot \rho_{\text{az}} \cdot k_B T_{\text{sys}} F_n L_{\text{tot}}}$$
+
 where $P_{\text{avg}} = P_t \cdot \tau_p \cdot \text{PRF}$.
 
 ---
