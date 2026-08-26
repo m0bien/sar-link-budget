@@ -439,7 +439,7 @@ sar-link-budget/
 2. **GitHub Pages Deployment**:
    - Push to your GitHub repository.
    - Go to **Settings** $\rightarrow$ **Pages** $\rightarrow$ select `main` branch $\rightarrow$ click **Save**.
-   - Your application will be live at `[https://<username>.github.io/<repo>/](https://m0bien.github.io/sar-link-budget/)`.
+   - Your application will be live at `[[https://<username>.github.io/<repo>/](https://m0bien.github.io/sar-link-budget/)](https://m0bien.github.io/sar-link-budget/)`.
 
 ---
 
