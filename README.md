@@ -356,6 +356,7 @@ $$\text{NESZ}(\theta) = \frac{256 \pi^3 \cdot R^3(\theta) \cdot v_s \cdot \sin(\
 
 ### Distributed Clutter SNR ($\text{SNR}_{\text{dist}}$)
 For any terrain with backscatter $\sigma_0$:
+
 $$\text{SNR}_{\text{dist}} = \frac{\sigma_0}{\text{NESZ}} \implies \text{SNR}_{\text{dist, dB}} = \sigma_{0, \text{dB}} - \text{NESZ}_{\text{dB}}$$
 
 **Typical Terrestrial Backscatter Levels ($\sigma_0$) at C/X-Band:**
