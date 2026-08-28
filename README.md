@@ -441,9 +441,7 @@ sar-link-budget/
 
 1. **Local Run**: Open `index.html` in Chrome, Edge, Safari, or Firefox.
 2. **GitHub Pages Deployment**:
-   - Push to your GitHub repository.
-   - Go to **Settings** $\rightarrow$ **Pages** $\rightarrow$ select `main` branch $\rightarrow$ click **Save**.
-   - Your application will be live at [https://m0bien.github.io/sar-link-budget/].
+   - Live at [https://m0bien.github.io/sar-link-budget/].
 
 ---
 
